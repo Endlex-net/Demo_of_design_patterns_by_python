@@ -1,0 +1,2 @@
+# Demo_of_design_patterns_by_python
+用python写的一点设计模式的例子（大话设计模式读书笔记）
