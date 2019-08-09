@@ -67,7 +67,7 @@ class WashingMode(Observer):
     def update(self, water_heater: WaterHeater, object: Any):
         """更新"""
         assert isinstance(water_heater, WaterHeater), TypeError(
-            f"water_heater must is WaterHeater, not {type(water_heater): {water_heater}}"
+            f"water_heater must is WaterHeater, not {type(water_heater)}: {water_heater}"
         )
         if water_heater.temperature >= 50:
             print("水已经热了，可以洗澡了")
@@ -78,7 +78,7 @@ class DrinkingMode(Observer):
 
     def update(self, water_heater: WaterHeater, object: Any):
         assert isinstance(water_heater, WaterHeater), TypeError(
-            f"water_heater must is WaterHeater, not {type(water_heater): {water_heater}}"
+            f"water_heater must is WaterHeater, not {type(water_heater)}: {water_heater}"
         )
         if water_heater.temperature >= 100:
             print("水已经烧开！可以饮用了")
