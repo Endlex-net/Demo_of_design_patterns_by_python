@@ -1,10 +1,8 @@
-# -*-coding:utf8-*-
 import abc
 
 
-class CashSuper:
+class CashSuper(abc.ABC):
     """收费父类"""
-    __metaclass__ = abc.ABCMeta
 
     @abc.abstractmethod
     def accept_cash(self, money):
@@ -68,8 +66,8 @@ def main():
     total_prices = csuper.get_result(price * amount)
     total += total_prices
     display += u"单价：{}\t数量: {}\t {}\t合计: {}".format(price, amount, cbx_txt, total_prices)
-    print display
-    print u"总计：{}".format(total)
+    print(display)
+    print(u"总计：{}".format(total))
 
 
 if __name__ == "__main__":

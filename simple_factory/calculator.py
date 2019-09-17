@@ -1,5 +1,5 @@
 # -*-coding:utf8-*-
-class Operation(object):
+class Operation:
     """运算类"""
 
     def __init__(self):
@@ -26,7 +26,7 @@ class OperationSub(Operation):
     """减法运算类"""
 
     def __init__(self):
-        super(OperationSub, self).__init__()
+        super().__init__()
 
     @property
     def result(self):
@@ -37,7 +37,7 @@ class OperationMul(Operation):
     """乘法运算类"""
 
     def __init__(self):
-        super(OperationMul, self).__init__()
+        super().__init__()
 
     @property
     def result(self):
@@ -48,7 +48,7 @@ class OperationDiv(Operation):
     """除法运算类"""
 
     def __init__(self):
-        super(OperationDiv, self).__init__()
+        super().__init__()
 
     @property
     def result(self):
@@ -78,7 +78,7 @@ def main():
     oper.number_a = 1
     oper.number_b = 2
     result = oper.result
-    print result
+    print(result)
 
 
 if __name__ == "__main__":
