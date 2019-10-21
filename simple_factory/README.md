@@ -1,7 +1,7 @@
 ## 简单工厂
 简单工厂模式是属于创建型模式，又叫做静态工厂方法（Static Factory Method）模式，但不属于23种GOF设计模式之一。简单工厂模式是由一个工厂对象决定创建出哪一种产品类的实例。简单工厂模式是工厂模式家族中最简单实用的模式，可以理解为是不同工厂模式的一个特殊实现。
 #### UML
-<div align="center"> <img src="simple_factory.png"/> </div><br>
+<div align="center"> <img src="simple_factory.png"/> </div>
 
 #### 使用场景
 工厂类负责创建的对象比较少；
