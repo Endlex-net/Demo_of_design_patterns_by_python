@@ -4,7 +4,7 @@
 * 创建型模型
     * [简单工厂](/simple_factory/README.md)
     * [工厂方法](/factory_method/Readme.md)
-    * 抽象工厂
+    * [抽象工厂](/abstract_factory/Readme.md)
     * 建造者
     * 单例
     * 原型
