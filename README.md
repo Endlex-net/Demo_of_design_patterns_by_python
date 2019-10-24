@@ -6,8 +6,8 @@
     * [工厂方法](/factory_method/Readme.md)
     * [抽象工厂](/abstract_factory/Readme.md)
     * [建造者](/builder_pattern/Readme.md)
-    * 单例
-    * 原型
+    * [单例](/singleton_pattern/Readme.md)
+    * [原型](/prototype_pattern/Readme.md)
     * 对象池
     
 * 结构型模型
