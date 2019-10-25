@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod
 
 
 class Target:
+    """目标类，用户期待的接口"""
     pass
 
 
