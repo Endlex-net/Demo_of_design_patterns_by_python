@@ -11,8 +11,8 @@
     * [对象池](/object_pool_pattern/Readme.md)
     
 * 结构型模型
-    * [适配器]()
-    * 桥接
+    * [适配器](/adapter_pattern/Readme.md)
+    * [桥接](/bridge_pattern/Readme.md)
     * 组合
     * 装饰
     * 外观
