@@ -13,7 +13,7 @@
 * 结构型模型
     * [适配器](/adapter_pattern/Readme.md)
     * [桥接](/bridge_pattern/Readme.md)
-    * 组合
+    * [组合](/composite_pattern/Readme.md)
     * 装饰
     * 外观
     * 享元
