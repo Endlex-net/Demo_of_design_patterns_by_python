@@ -14,7 +14,7 @@
     * [适配器](/adapter_pattern/Readme.md)
     * [桥接](/bridge_pattern/Readme.md)
     * [组合](/composite_pattern/Readme.md)
-    * 装饰
+    * [装饰](/decorator_pattern/Readme.md)
     * 外观
     * 享元
     * 私有类数据
