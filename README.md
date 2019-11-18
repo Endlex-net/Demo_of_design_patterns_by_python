@@ -15,7 +15,7 @@
     * [桥接](/bridge_pattern/Readme.md)
     * [组合](/composite_pattern/Readme.md)
     * [装饰](/decorator_pattern/Readme.md)
-    * 外观
+    * [外观](/facade_pattern/Readme.md)
     * 享元
     * 私有类数据
     * 代理
