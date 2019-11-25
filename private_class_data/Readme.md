@@ -3,7 +3,7 @@
 
 #### UML
 
-<div align="center"> <img src="PrivateClassDate.png"/> </div>
+<div align="center"> <img src="PrivateClassData.png"/> </div>
 
 #### 使用场景
 * 类的初始化数据是一次性的不可修改的数据。
