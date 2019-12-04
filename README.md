@@ -18,7 +18,7 @@
     * [外观](/facade_pattern/Readme.md)
     * [享元](/flyweight_pattern/Readme.md)
     * [私有类数据](/private_class_data/Readme.md)
-    * 代理
+    * [代理](/proxy_pattern/Readme.md)
     
 * 行为行模型
     * 责任链
