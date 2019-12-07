@@ -21,7 +21,7 @@
     * [代理](/proxy_pattern/Readme.md)
     
 * 行为行模型
-    * 责任链
+    * [责任链](/chain_of_responsibility/Readme.md)
     * 命令
     * 解释器
     * 迭代器
