@@ -22,7 +22,7 @@
     
 * 行为行模型
     * [责任链](/chain_of_responsibility/Readme.md)
-    * 命令
+    * [命令](/command_pattern/Readme.md)
     * 解释器
     * 迭代器
     * 中介者
