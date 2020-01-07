@@ -24,7 +24,7 @@
     * [责任链](/chain_of_responsibility/Readme.md)
     * [命令](/command_pattern/Readme.md)
     * [解释器](/interpreter_pattern/Readme.md)
-    * 迭代器
+    * [迭代器](/iterator_pattern/Readme.md)
     * 中介者
     * 备忘录
     * 空对象
